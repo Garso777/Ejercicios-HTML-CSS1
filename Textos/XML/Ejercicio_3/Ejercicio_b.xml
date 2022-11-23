@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Contactos>
+<contacto_1>
+<nombre>Nicolas</nombre>
+<apellido>Rios</apellido>
+<apellido2>Abashidze</apellido2>
+<DNI>58449830E</DNI>
+<Fecha_Nacimiento Dia="18" Mes="diciembre" Año="2002"/>
+<Doreccion Codigo_Postal="33218"/>
+<Calle>33218</Calle>
+<Numero>10</Numero>
+<Poblacion>Gijon</Poblacion>
+<Pais>España</Pais>
+<telefono>583495723</telefono>
+<correo_elctronico>fplaboral@gmail.com</correo_elctronico>
+</contacto_1>
+<contacto_2>
+<nombre>Pablo</nombre>
+<apellido>escobar</apellido>
+<apellido2>gaviria</apellido2>
+<DNI>342342434C</DNI>
+<Fecha_Nacimiento Dia="1" Mes="diciembre" Año="1949"/>
+<Doreccion Codigo_Postal="33218"/>
+<Calle>33218</Calle>
+<Numero>15</Numero>
+<Poblacion>Rionegro</Poblacion>
+<Pais>Columbia</Pais>
+<telefono>53465723</telefono>
+<correo_elctronico>fplaboral@gmail.com</correo_elctronico>
+</contacto_2>
+</Contactos>

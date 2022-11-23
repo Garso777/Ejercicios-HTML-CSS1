@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca Ciudad="Gijon">
+<libro Categoria="COCINA">
+<titulo idioma="en">Everyday Italian</titulo>
+<autor>Adrian Young</autor>
+<year>2005</year>
+<precio>30.00euros</precio>
+</libro>
+
+<libro Categoria="JUVENIL">
+<titulo idioma="en">Harry Potter</titulo>
+<autor>J.K.Rowling</autor>
+<year>2005</year>
+<precio>29.95euros</precio>
+</libro>
+
+<libro Categoria="WEB">
+<titulo idioma="en">Learning XML</titulo>
+<autor>Erik Laplace</autor>
+<year>2007</year>
+<precio>25.00euros</precio>
+</libro>
+</Biblioteca>

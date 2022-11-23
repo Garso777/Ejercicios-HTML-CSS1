@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Datos_Personales>
+<nombre>Nicolas</nombre>
+<apellido>Rios</apellido>
+<apellido2>Abashidze</apellido2>
+<DNI>58449830E</DNI>
+<Fecha_Nacimiento>
+<Dia>18</Dia>
+<Mes>diciembre</Mes>
+<Año>2002</Año>
+</Fecha_Nacimiento>
+<Doreccion Codigo_Postal="33218"/>
+<Calle>33218</Calle>
+<Numero>10</Numero>
+<Poblacion>Gijon</Poblacion>
+<Pais>España</Pais>
+<telefono>583495723</telefono>
+<correo_elctronico>fplaboral@gmail.com</correo_elctronico>
+</Datos_Personales>
